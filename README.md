@@ -1,6 +1,6 @@
 
 # Introduction
-This project trains and predictions MNIST digit recognition with Kubernetes on GCS.
+This project trains and serves MNIST digit recognition with Kubernetes on GCS.
 
 # How to run
 ## Create Kubernetes cluster
